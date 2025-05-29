@@ -184,7 +184,7 @@ SUPABASE_URL=your_supabase_url
 
 6. **Upload .assets folder pdf for refernce use**
    ```
-   in Streamlit UI upload this two pdfs financials.pdf and pitch_deck.pdf and you can use prompt.md for refernce or your own propmt (as you wish)
+   in Streamlit UI upload this two pdfs financials.pdf and pitch_deck.pdf and you can use prompt.md for refernce or your own prompt (as you wish)
 
    or prompt: “Based on our pitch_deck.pdf and financials.pdf, what are the major risks an investor might flag?”
 
