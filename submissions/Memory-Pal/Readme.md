@@ -170,7 +170,6 @@ SUPABASE_URL=your_supabase_url
 3. **Configure Supabase**
    - If you want to see content in database or else no need
    - Create Supabase account and upload required key, url, password of the database
-   - Replace username/password with your MongoDB Atlas credentials
 
 
 4. **Change Directory**
